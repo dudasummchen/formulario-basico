@@ -1,0 +1,15 @@
+.campo{
+    background-color: rgb(237, 141, 131);
+    border: 3px solid rgb(226, 226, 234);
+    padding: 5px;
+    font-size: 16px;
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serifs;
+}
+textarea{
+    width: 100px;
+    height: 100px;
+    background-color: brown;
+    color: rgb(255, 255, 255);
+    
+}
